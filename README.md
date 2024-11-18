@@ -1,6 +1,6 @@
 # Overview
 
-This is a small sample of the calculator series repo. The focus was on memory safety and concurrency.
+This is a small sample of the calculator series repo. The focus was on memory safety and concurrency. NetCalc uses a threadpool to manage file servicing requests from clients
 
 ## Build
 
